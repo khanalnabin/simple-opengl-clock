@@ -1,1 +1,5 @@
 #+TITLE: Simple Clock made in OpenGL
+
+* Screenshot
+#+CAPTION: Clock
+[[./images/clock.png]]
