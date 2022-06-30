@@ -1,1 +1,1 @@
-#+TITLE: Simple Clock made in OpenGl
+#+TITLE: Simple Clock made in OpenGL
