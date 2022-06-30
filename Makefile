@@ -1,8 +1,6 @@
-
-PWD := /home/nabin/Data/Projects/Clock
-SRC_DIR := $(PWD)/src
-BUILD_DIR := $(PWD)/build
-INCLUDE_DIR := $(PWD)/include
+SRC_DIR := src
+BUILD_DIR := build
+INCLUDE_DIR := include
 CC := g++
 CFLAGS := -lglfw -lGL
 
